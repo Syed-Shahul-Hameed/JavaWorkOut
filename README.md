@@ -8,34 +8,36 @@ The exercises use the `java.time` package (`LocalDate`, `ZonedDateTime`, `Period
 
 ## Day 1: Parsing and Formatting Dates
 - **Question:** Convert `"16-09-2025"` into ISO format (`2025-09-16`) and print the day of the week.  
-- **Solution Class:** `Day1Exercise.java`
+- **Solution Class:** `datetimeUtils/Day1Exercise.java`
 
 ---
 
 ## Day 2: Finding the Next Working Day
 - **Question:** Write a method that takes a date and returns the next working day (Monday–Friday).  
 - **Example:** `2025-09-19 (Friday)` → `2025-09-22 (Monday)`  
-- **Solution Class:** `Day2Exercise.java`
+- **Solution Class:** `datetimeUtils/Day2Exercise.java`
 
 ---
 
 ## Day 3: Handling Time Zones
 - **Question:** Convert the current time in `Asia/Kolkata` to `America/New_York`.  
-- **Solution Class:** `Day3Exercise.java`
+- **Solution Class:** `datetimeUtils/Day3Exercise.java`
 
 ---
 
 ## Day 4: Calculating Age
 - **Question:** Given a birthdate (e.g., `2000-01-01`), calculate exact age in years, months, and days.  
-- **Solution Class:** `Day4Exercise.java`
+- **Solution Class:** `datetimeUtils/Day4Exercise.java`
 
 ---
 
 ## Day 5: Stopwatch Simulation with Duration
 - **Question:** Simulate a stopwatch using `Instant` and print elapsed time in seconds and milliseconds.  
-- **Solution Class:** `Day5Exercise.java`
+- **Solution Class:** `datetimeUtils/Day5Exercise.java`
 
 ---
 
 ## How to Run
-1. Compile the Java class of the day:  
+1. Compile the Java class of the day:  For example `javac Day1Exercise.java`
+2. Run the program:  For example `java Day1Exercise`
+
