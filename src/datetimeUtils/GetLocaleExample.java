@@ -1,3 +1,5 @@
+package datetimeUtils;
+
 import java.util.Locale;
 
 public class GetLocaleExample {

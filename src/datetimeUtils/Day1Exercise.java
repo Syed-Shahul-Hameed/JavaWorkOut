@@ -1,7 +1,9 @@
+package datetimeUtils;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class Day3Exercise {
+public class Day1Exercise {
     public static void main(String[] args) {
         /* Question: Write a Java program that takes a date string in the format "16-09-2025" and
             converts it into an ISO_LOCAL_DATE string(2025 - 09 - 16).
