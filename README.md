@@ -33,7 +33,7 @@ The exercises use the `java.time` package (`LocalDate`, `ZonedDateTime`, `Period
 
 ## Day 5: Stopwatch Simulation with Duration
 - **Question:** Simulate a stopwatch using `Instant` and print elapsed time in seconds and milliseconds.  
-- **Solution Class:** `datetimeUtils/Day5Exercise.java`
+- **Solution Class:** `datetimeUtils/StopwatchSimulation.java`
 
 ---
 
