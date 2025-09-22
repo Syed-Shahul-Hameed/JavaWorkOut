@@ -37,6 +37,12 @@ The exercises use the `java.time` package (`LocalDate`, `ZonedDateTime`, `Period
 
 ---
 
+## Day 6: First and last day and date of that month
+- **Question:** Write a program that takes any LocalDate, and prints the first and last day and date of that month.  
+- **Solution Class:** `datetimeUtils/Day6Exercise.java`
+
+---
+
 ## How to Run
 1. Compile the Java class of the day:  For example `javac Day1Exercise.java`
 2. Run the program:  For example `java Day1Exercise`
